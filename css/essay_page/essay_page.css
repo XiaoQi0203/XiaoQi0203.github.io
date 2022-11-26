@@ -143,7 +143,7 @@
   }
   
   #bber .bber-bottom .bber-reply {
-    cursor: url(/img/x2.cur), auto !important;
+    cursor: url(\cur\default.cur), auto !important;
   }
   
   #bber .timeline ul li.bber-item:hover {

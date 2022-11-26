@@ -96,7 +96,11 @@
   #page-header:not(.not-top-img):before {
     background-color: transparent !important;
   }
-  
+  /* 整页背景调整 */
+  #web_bg ~ .page:has(.fcircle_page) {
+    background-color: #f7f9fe !important;
+  }
+
   /* 首页文章卡片 */
   #recent-posts > .recent-post-item {
     background: rgba(255, 255, 255, 0.9);
@@ -242,14 +246,14 @@
   
   /* 鼠标图标 */
   body {
-    cursor: url("/img/x1.cur"), auto;
+    cursor: url("/cur/default.cur"), auto;
   }
   a,
   [type="button"]:not(:disabled),
   [type="reset"]:not(:disabled),
   [type="submit"]:not(:disabled),
   button:not(:disabled) {
-    cursor: url("/img/x2.cur"), auto !important;
+    cursor: url("/cur/pointer.cur"), auto !important;
   }
   /* md网站下划线 */
   #article-container a:hover {
