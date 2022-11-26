@@ -1,0 +1,10 @@
+/* 鼠标指针样式 */
+body {
+      cursor:url(/cur/default.cur),
+            default;
+    }
+    a,
+    img {
+      cursor:url(/cur/pointer.cur),
+            default;
+    }
