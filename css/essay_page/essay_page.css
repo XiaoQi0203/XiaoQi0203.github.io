@@ -143,7 +143,7 @@
   }
   
   #bber .bber-bottom .bber-reply {
-    cursor: url(\cur\default.cur), auto !important;
+    cursor: url("/cur/default.cur"), auto !important;
   }
   
   #bber .timeline ul li.bber-item:hover {
@@ -233,7 +233,7 @@
   /* 顶部样式 */
   .author-content.author-content-item.essayPage {
     height: 19rem;
-    background: url(https://image.anzhiy.cn/adminuploads/1/2022/08/21/630249e2df20f.jpg) left 28% / cover no-repeat;
+    background: url("/img/web_bg.jpg") left 28% / cover no-repeat;
     color: var(--anzhiyu-white);
     overflow: hidden;
     margin-top: 0px;
