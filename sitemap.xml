@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://codindd.cn/about/index.html</loc>
     
     <lastmod>2022-11-26</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/essay/index.html</loc>
+    <loc>https://codindd.cn/essay/index.html</loc>
     
     <lastmod>2022-11-26</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/001e.html</loc>
+    <loc>https://codindd.cn/posts/001e.html</loc>
     
     <lastmod>2022-11-26</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/ddae.html</loc>
+    <loc>https://codindd.cn/posts/ddae.html</loc>
     
     <lastmod>2022-11-25</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/link/index.html</loc>
+    <loc>https://codindd.cn/link/index.html</loc>
     
     <lastmod>2022-11-25</lastmod>
     
@@ -48,16 +48,16 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2022-11-26</lastmod>
+    <loc>https://codindd.cn/</loc>
+    <lastmod>2022-12-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://example.com/tags/Hexo/</loc>
-    <lastmod>2022-11-26</lastmod>
+    <loc>https://codindd.cn/tags/Hexo/</loc>
+    <lastmod>2022-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

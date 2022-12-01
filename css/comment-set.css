@@ -26,10 +26,10 @@
     position: absolute;
     margin: 0 3px;
     bottom: 5px;
-    background: var(--anzhiyu-green);
-    border: var(--anzhiyu-green);
-    border-radius: var(--anzhiyu-green);
-    box-shadow: var(--anzhiyu-green);
+    background: var(--anzhiyu-background);
+    border: var(--anzhiyu-background);
+    border-radius: var( --anzhiyu-background);
+    box-shadow: var( --anzhiyu-background);
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
     -o-transition: all .3s ease-in-out;
@@ -42,15 +42,15 @@
   }
   
   #comment-barrage .comment-barrage-item:hover {
-    border-color: var(--anzhiyu-green) !important;
-    box-shadow: var(--anzhiyu-green) !important;
+    border-color: var( --anzhiyu-background) !important;
+    box-shadow: var( --anzhiyu-background) !important;
   }
   
   .barrage-info {
     overflow: hidden;
     font-size: 90%;
     height: 35px;
-    border-bottom: var(--anzhiyu-green);
+    border-bottom: var( --anzhiyu-background);
   }
   
   .barrage-info span {
@@ -61,16 +61,16 @@
   .barrage-title {
     font-weight: bold;
     padding: .3em 0.5em;
-    background: var(--anzhiyu-greenr);
-    color: var(--anzhiyu-green);
+    background: var( --anzhiyu-backgroundr);
+    color: var( --anzhiyu-pink);
     margin-right: .5em;
     border-radius: .5em;
     vertical-align: middle;
   }
   
   .barrage-title:hover {
-    color: var(--anzhiyu-green);
-    background: var(--anzhiyu-green);
+    color: var( --anzhiyu-background);
+    background: var( --anzhiyu-background);
   }
   
   .barrage-avatar {
@@ -100,11 +100,11 @@
   }
   
   .barrage-content a {
-    color: var(--anzhiyu-green);
+    color: var( --anzhiyu-hovertext);
   }
   
   .barrage-content a:hover {
-    color: var(--anzhiyu-lighttext);
+    color: var(--anzhiyu-red);
   }
   
   .barrage-content p {
